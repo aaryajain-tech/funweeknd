@@ -1,0 +1,6 @@
+{
+  "name": "FunWeeknd",
+  "description": "A vibrant multi-city weekend activity planner for college students & young adults across India (Chennai, Bengaluru, Mumbai, Delhi, Hyderabad, Goa & more) with personalized itineraries, mood matching, commute calculations, outfit visualizers, live weather alerts, and squad sharing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
